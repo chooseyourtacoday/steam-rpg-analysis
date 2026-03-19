@@ -1,6 +1,6 @@
 # steam-rpg-analysis
 ## Overview
-That question changed everything. What began as a nostalgic conversation soon turned into a real plan.
+A group of friends gathered to discuss their favorite childhood video games...
 The group decided to create the game they had always wanted to play, but dreams
 cost money, and making money takes planning.
 
